@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Felixbstck
 - 👀 I’m interested in programming
 - 🌱 British student studying Computer Sciences at the University of Caen
-- 💞️ I’m looking to collaborate on anything, my current github repos are private I have a few projects in mind for next year
+- 💞️ I’m looking to collaborate on anything, my current github repos are private but I do have a few projects in mind for next year
 - 📫 How to reach me 
 - Discord: C£O#4970
 
