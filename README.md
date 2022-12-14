@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felixbstck
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Computer Sciences
+- 🌱 I’m currently studying Computer Sciences at the University of Caen
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 
 - Discord: C£O#4970
