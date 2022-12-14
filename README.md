@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Felixbstck
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming - strong points: C, Python, SQL - weak points: html, css
 - 🌱 British student studying Computer Sciences at the University of Caen
 - 💞️ I’m looking to collaborate on anything, my current github repos are private but I do have a few projects in mind for next year
 - 📫 How to reach me 
