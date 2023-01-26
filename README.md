@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Felixbstck
+- 👋 Hi, I’m @C£O
 - 👀 I’m interested in programming - strong points: C, Python, SQL - weak points: html, css
-- 🌱 British student studying Computer Sciences at the University of Caen
+- 🌱 Computer Sciences Student
 - 💞️ I’m looking to collaborate on anything, my current github repos are private but I do have a few projects in mind for next year
 - 📫 How to reach me 
-- Discord: C£O#4970
+- Discord: C£O#9614
 
 <!---
 Felixbstck/Felixbstck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
