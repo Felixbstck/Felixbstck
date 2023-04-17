@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @C£O
+- 👋 Hi, I’m @Felixbstck
 - 👀 I’m interested in programming - strong points: C, Python, SQL - weak points: html, css
 - 🌱 Computer Sciences Student
 - 💞️ I’m looking to collaborate on anything, my current github repos are private but I do have a few projects in mind for next year
